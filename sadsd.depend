@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1602425034 source:c:\users\msi\desktop\sadsd\main.c
+	<stdio.h>
+
+1611404839 source:c:\users\msi\desktop\projects\sadsd\main.c
+	"SDL2/SDL.h"
+	<stdio.h>
+	<time.h>
+	"main.h"
+	"status.h"
+
+1610806558 c:\users\msi\desktop\projects\sadsd\main.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	"SDL2/SDL_mixer.h"
+
+1610284406 c:\users\msi\desktop\projects\sadsd\status.h
+
+1610805705 source:c:\users\msi\desktop\projects\sadsd\status.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	"main.h"
+
+1611365238 source:c:\users\furka\desktop\sadsd\main.c
+	"SDL2/SDL.h"
+	<stdio.h>
+	<time.h>
+	"main.h"
+	"status.h"
+
+1610766958 c:\users\furka\desktop\sadsd\main.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	"SDL2/SDL_mixer.h"
+
+1610244806 c:\users\furka\desktop\sadsd\status.h
+
+1610766104 source:c:\users\furka\desktop\sadsd\status.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	"main.h"
+
